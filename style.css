@@ -1,0 +1,12 @@
+
+body {
+    margin: 0;
+}
+
+a:nth-child(2n) {
+  background: grey;
+}
+
+span>span>span {
+  background:red;
+}

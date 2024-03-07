@@ -1,0 +1,21 @@
+CSS Selectors
+In CSS, styling must be applied to the appropriate element - otherwise, it's just junk!
+
+For this challenge, fix up the selectors in the provided code so that the following all works:
+
+Every second child of the "nav" element must have a grey background colour, like so:
+
+
+Any span element inside a span element inside a span element must have a red background, like so:
+
+
+The last paragraph tag in the HTML file must have 20% padding at its top, like so:
+
+
+
+
+You won't need to edit any HTML to solve this challenge - focus on the CSS!
+
+Note: For this challenge, we haven't written tests, because there are a lot of different ways to get the result we are looking for - any test we wrote would check some of those techniques, but might mark you incorrect if you found a good way to do it that we didn't think of!
+
+To know if you've got it right, just take a look at your page and decide for yourself - does it look like our example above? If so, congratulations, you nailed it! If not, keep trying, and don't forget to come ask for help if you get stuck. :)
